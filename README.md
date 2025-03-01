@@ -1,4 +1,4 @@
 # divya
 This is my first Git Repository.
 <br>
-Author- Divya Prajapati
+Author- Divya
